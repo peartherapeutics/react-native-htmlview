@@ -20,6 +20,10 @@
       "/node_modules/"
     ]
   },
+  "dependencies": {
+    "create-react-class": "15.6.3",
+    "prop-types": "15.6.0"
+  },
   "devDependencies": {
     "babel-eslint": "6.0.2",
     "babel-jest": "^10.0.2",
